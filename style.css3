@@ -1,0 +1,9 @@
+*{
+  margi:0;
+  pading:0;
+}
+p{
+  background-color:red;
+  pading:10px;
+  margin-top:15px;
+}
