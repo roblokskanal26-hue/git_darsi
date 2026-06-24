@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  pading:0;
+}
+button {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+h1 {
+  font-size: 40px;
+}
